@@ -5,4 +5,8 @@ public class maintest {
         System.out.println("aaaaaaaaaaaaaaaaaaa");
 
     }
+    public void test(){
+        System.out.println("bbbbbbbbbbbbbbbb");
+
+    }
 }
